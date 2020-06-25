@@ -4,6 +4,10 @@ _Session dsmft-paris-08_
 
 Projet de classification de semaine 3.
 
+Les notebooks utilisent plotly qui ne sont pas gérés par github.
+
+Pour avoir le rendu, utiliser ce lien [nbviewer](https://nbviewer.jupyter.org/github/thefifthagreement/jedha-fs-s3-project/blob/master/exploration.ipynb)
+
 # Conversion Rate Challenge
 
 
