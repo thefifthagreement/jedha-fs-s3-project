@@ -1,10 +1,10 @@
 # Classification project 
 
-## _Dealing with imbalanced dataset_
-
 > Jedha Data Science Bootcamp - Fullstack - week 3
 
 > *_Session dsmft-paris-08_*
+
+## _Dealing with imbalanced dataset_
 
 Since the notebook uses the `plotly` library which is not supported by Github, you can follow this **[nbviewer](https://nbviewer.jupyter.org/github/thefifthagreement/jedha-fs-s3-project/blob/master/conversion_rate.ipynb)** link to view it.
 
